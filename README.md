@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mayankverma2026" target="blank"><img src="https://img.shields.io/twitter/follow/mayankverma2026?logo=twitter&style=for-the-badge" alt="mayankverma2026" /></a> </p>
 
-- 🌱 I’m currently learning **C++ programming language**
+- 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 📫 How to reach me **mv494201@gmail.com**
 
